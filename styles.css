@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Noto+Sans+JP&display=swap');
+
+h1 {
+  font-family: 'Abril Fatface', cursive;
+  text-align: center;
+}
+
+h4 {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-style: bold;
+  background-color: #d3d3d3;
+}
+
+li, p {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+li span {
+  font-style: italic;
+}
+
+.highlight {
+  background-color: #fff2ac;
+}
+
+#ingredients li { 
+  font-family: Arial;
+}
+
+#ingredients li span {
+  font-style: italic;
+  color: #999;
+}
+
+#ingredients li:nth-child(9) {
+  color: red;
+}
+
+.image {
+  width: 40px;
+}
