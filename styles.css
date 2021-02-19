@@ -27,7 +27,7 @@ li, p {
   font-family: 'Noto Sans JP', sans-serif;
 }
 
-li span {
+#directions li span {
   font-style: italic;
 }
 
@@ -39,10 +39,6 @@ li span {
   font-family: Arial;
 }
 
-#ingredients li span {
-  font-style: italic;
-  color: #999;
-}
 
 #ingredients li:nth-child(9) {
   color: red;
